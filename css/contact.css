@@ -1,0 +1,9 @@
+label{
+    color: #FF5C00;
+}
+
+a{
+    border-color: #FF5C00 !important;
+    background-color: #FF5C00 !important;
+    font-weight: bold !important;
+}

@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+.navbar{
+    background-color: #FF5C00 !important;
+    font-weight: bold;
+}
+#footer{
+    background-color: #FF5C00;
+    font-weight: bold;
+}
+
+.active{
+    font-weight: bolder !important;
+}
+
+#present{
+    color: #FF5C00;
+}
+a{
+    color: black !important;
+}
+a:link {
+    text-decoration: none;
+}
